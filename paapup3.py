@@ -18,7 +18,7 @@ URL = ["https://chartink.com/screener/copy-bearish-engulifing-see-after-3-15-pm-
        "https://chartink.com/screener/copy-sell-100-accuracy-morning-scanner-scan-at-9-30-7406",
        "https://chartink.com/screener/copy-2d-sell-bollinger-band-2",
        "https://chartink.com/screener/copy-ut-sell-eod-basis-5",
-       "https://chartink.com/screener/agp-bearong-2",
+       "https://chartink.com/screener/copy-week-sell-3",
        "https://chartink.com/screener/copy-1week-sell-twist",
        "https://chartink.com/screener/agp-services-bearish-1",
        "https://chartink.com/screener/sell-postesttttttttttttttttt",
