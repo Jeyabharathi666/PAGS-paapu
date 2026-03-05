@@ -18,7 +18,17 @@ URLS = [
     "https://chartink.com/screener/copy-stocks-in-downtrend-1959",
     "https://chartink.com/screener/copy-w6-f-o-2",
     "https://chartink.com/screener/copy-1week-sell-twist",
-    "https://chartink.com/screener/copy-weekly-bollinger-sell-3"
+    "https://chartink.com/screener/copy-weekly-bollinger-sell-3",
+    "https://chartink.com/screener/sell-postesttttttttttttttttt",
+    "https://chartink.com/screener/copy-cci-below-100-62",
+    "https://chartink.com/screener/copy-bearish-rsi-stoc-1215",
+    "https://chartink.com/screener/srf-narayana-futures-positional-bearish",
+    "https://chartink.com/screener/sell-bollinger-band-weekly-15",
+    "https://chartink.com/screener/copy-bolinger-band-bearish-reversal-aps-401",
+    "https://chartink.com/screener/copy-ut-sell-eod-basis-5",
+    "https://chartink.com/screener/copy-sell-f-0",
+    "https://chartink.com/screener/copy-perfect-bearish-3266"
+]
    ]
 
 sheet_id = "1AqImZ3jrjza1aZIfzpaDio8BrGTgu3kw9rWCN3MZMiw"
